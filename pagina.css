@@ -1,4 +1,4 @@
-    :root {
+   :root {
     --azul: #042e7d;
     --azul-oscuro: #00205c;
     --azul-claro: #1a5fd6;
@@ -33,7 +33,7 @@ a {
 
 /* Imágenes de cada preparación (carpeta imagenes/) */
 .img-pan-de-soya {
-    background-image: url("imagenes/pan-de-soya.png"), linear-gradient(135deg, var(--amarillo), #f39c12);
+    background-image: url("imagenes/pan_soya.png"), linear-gradient(135deg, var(--amarillo), #f39c12);
 }
 
 .img-mantecada-de-soya {
@@ -41,7 +41,7 @@ a {
 }
 
 .img-arepas-de-soya {
-    background-image: url("imagenes/arepa-de-soya.png"), linear-gradient(135deg, var(--amarillo-fuerte), var(--azul));
+    background-image: url("imagenes/arepa_de_soya.png"), linear-gradient(135deg, var(--amarillo-fuerte), var(--azul));
 }
 
 .img-pan-de-soya,
